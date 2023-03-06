@@ -1,6 +1,8 @@
 # Repositorio
 Repositorio de proyecto
 
-Rama Main del proyecto
 
-Primer linea de codigo del proyecto 
+Primera linea de codigo del proyecto
+
+
+Segunda linea de codigo del proyecto 
